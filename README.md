@@ -1,6 +1,6 @@
 # room_controller_app
 
-A new Flutter project.
+Room Controller App.
 
 ## Getting Started
 
