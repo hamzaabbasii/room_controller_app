@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "147924974167",
+    "firebase_url": "https://energymeter-62b13-default-rtdb.firebaseio.com",
+    "project_id": "energymeter-62b13",
+    "storage_bucket": "energymeter-62b13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147924974167:android:7d27b687a9768869a18112",
+        "android_client_info": {
+          "package_name": "com.example.room_controller_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147924974167-jegdlij0tj19p4co0qt65hvthuohj2of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1K5PBkq3_C0SmJH438mVbSeGum1towhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147924974167-jegdlij0tj19p4co0qt65hvthuohj2of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
